@@ -1,4 +1,9 @@
 Mats
+<<<<<<< HEAD
 Ersin
+Kevin Schunselaars
+=======
+Ersin Aydin
 Kevin
+>>>>>>> b60f4b157c1a20e6bcdd29356a5a05493418e7ee
 Michael
